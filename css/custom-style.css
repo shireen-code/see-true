@@ -1,0 +1,19 @@
+.inner .bottom-row .navbar-default .navbar-nav>li>a { color: #fff; }
+.inner .bottom-row .navbar-default .navbar-nav>li>a:hover { color: #feb400; }
+section.banner-inner h2 { margin: auto; padding: 250px 0; text-align: center; z-index: 2; color: #fff; font-weight: 600; font-size: 45px; }
+section.banner-inner { position: relative; }
+.section { padding: 50px 0; position: relative; }
+body { font-family: 'Poppins', sans-serif; }
+section.contact_info .heading h2 { font-size: 35px; font-weight: 600; text-align: center; margin: 0 0 15px; }
+section.contact_info .heading h3 { font-size: 18px; text-align: center; text-transform: uppercase; margin: 0 0 50px; font-weight: 600; color: #09345f; }
+section.contact_info .items { border: 1px solid #eee; padding: 20px; min-height: 180px; display: inline-flex; flex-direction: row; width: 100%; justify-content: center; align-items: center; }
+section.contact_info .items img { margin-right: 12px; }
+section.contact_info .items p,
+section.contact_info .items p a { padding: 0; margin: 0; color: #000; font-size: 16px; font-weight: 500; }
+section.contact_info .items p a:hover { color: #feb500; }
+section.contact_details .heading h2 { font-size: 35px; font-weight: 600; text-align: center; margin: 0 0 15px; }
+section.contact_details form.contactUs input { background: #f5f5f5; width: 48%; height: 50px; margin: 0 0 5px; padding: 15px; border-bottom: 1px solid #d9d9d9; border-left: 0; border-top: 0; border-right: 0; margin-right: 8px; }
+section.contact_details form.contactUs textarea { background: #f5f5f5; width: 97%; height: 100px; margin: 0 0 5px; padding: 15px; border-bottom: 1px solid #d9d9d9; border-left: 0; border-top: 0; border-right: 0; resize: none; }
+section.contact_details { text-align: center; background: #f5f5f5; }
+section.contact_details form.contactUs input[type="submit"] { width: 200px; color: #1b1464; background: #ffb401; font-weight: 600; text-transform: uppercase; margin: 20px 0px; }
+section.contact_details form.contactUs input[type="submit"]:hover { background: #000; color: #fff; }
